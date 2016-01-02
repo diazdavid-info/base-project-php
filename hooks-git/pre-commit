@@ -1,0 +1,4 @@
+#!/usr/bin/php
+<?php
+echo __DIR__;
+exit(1);
