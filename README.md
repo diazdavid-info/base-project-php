@@ -1,5 +1,6 @@
 # Tamplate básico de un proyecto PHP
 Esto proyecto es un template básido para iniciar un proyecto de PHP.
+
 [![Latest Stable Version](https://poser.pugx.org/diazdavid-info/base-project-php/v/stable)](https://packagist.org/packages/diazdavid-info/base-project-php)
 [![Total Downloads](https://poser.pugx.org/diazdavid-info/base-project-php/downloads)](https://packagist.org/packages/diazdavid-info/base-project-php)
 [![Latest Unstable Version](https://poser.pugx.org/diazdavid-info/base-project-php/v/unstable)](https://packagist.org/packages/diazdavid-info/base-project-php)
