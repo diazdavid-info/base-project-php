@@ -2,11 +2,10 @@
 
 namespace foo;
 
-
 class Foo
 {
     public function nothing()
     {
-        return "ok";
+        return 'ok';
     }
 }
