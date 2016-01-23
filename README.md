@@ -1,4 +1,4 @@
-# Tamplate básico de un proyecto PHP
+# Template básico de un proyecto PHP
 Esto proyecto es un template básido para iniciar un proyecto de PHP.
 
 [![Latest Stable Version](https://poser.pugx.org/diazdavid-info/base-project-php/v/stable)](https://packagist.org/packages/diazdavid-info/base-project-php)
@@ -14,7 +14,7 @@ Para usar este proyecto necesitamos:
 # Descarga
 Para descargar el proyecto ejecutamos lo siguiente
 ```
-composer create-project diazdavid-info/base-project-php test-base 1.0.4
+composer create-project diazdavid-info/base-project-php test-base 1.0.6
 ```
 
 # Configuración
